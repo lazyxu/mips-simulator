@@ -1,2 +1,2 @@
 # mips-simulator
-test
+懒得做图形界面gg
